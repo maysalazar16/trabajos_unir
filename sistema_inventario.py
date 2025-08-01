@@ -20,7 +20,7 @@ class Producto:
     
     def __init__(self, nombre, precio, cantidad):
         """
-        Constructor de la clase Producto.
+        Constructor de la clase Producto...
         
         Args:
             nombre (str): Nombre del producto
